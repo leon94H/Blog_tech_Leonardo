@@ -1,0 +1,181 @@
+.navbarcomponents{
+    height: 70px;
+    width: 100%;
+    border: solid black 5px;
+    background-color:rgba(185, 182, 182); 
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;
+    text-transform:;
+    
+    
+   
+   
+
+}
+
+
+.nav-title {
+    transition:0.5s;
+}
+
+.nav-title:hover{
+    color: aliceblue;
+    transform: scale(30px);
+
+}
+
+.main-image{
+    height: 800px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-image: url(images/pexels-hasan-albari-1229861.jpg);
+}
+
+p{
+    font-size:20px;
+    font-weight:bold;
+    margin-left: 10px;
+}
+
+.Description{
+    height: 200px;
+    width: 100%;
+    background-color:rgba(128, 128, 128, 0.6); ;
+    border: solid black 5px;
+
+
+    
+}
+
+
+
+.card1{
+    height:300px;
+    width: 250px;
+    background-color:rgba(128, 128, 128, 0.909); 
+    border: solid black 5px;
+    display:flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    transition: 0.5s;
+  
+}
+
+.card1:hover{
+    transform:scale(30px);
+    background-color: rgba(240, 248, 255, 0.961);
+}
+
+.card1:hover{
+    transform:scale(30px);
+    background-color: rgba(240, 248, 255, 0.961);
+}
+
+
+
+.card2{
+    margin-top: 20px;
+    height:300px;
+    width: 250px;
+    background-color:rgba(128, 128, 128, 0.909); 
+    border: solid black 5px;
+    display:flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    transition: 0.5s;
+}
+
+.card2:hover{
+    transform:scale(30px);
+    background-color: rgba(240, 248, 255, 0.961);
+}
+
+.card3{
+    height:300px;
+    width: 250px;
+    background-color:rgba(128, 128, 128, 0.909); 
+    border: solid black 5px;
+    display:flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    transition: 0.5s;
+}
+
+.card3:hover{
+    transform:scale(30px);
+    background-color: rgba(240, 248, 255, 0.961);
+}
+
+.img1{
+
+    margin-top: 20px;
+    height:150px ; 
+    width: 200px;
+    border:solid black 3px;
+    background-image: url(images/AIAI.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    display: flex;
+    align-items: flex-end;
+
+    
+}
+
+
+
+.img2{
+    margin-top: 20px;
+    height: 150px;
+    width: 200px;
+    border:solid black 3px;
+    background-image: url(images/javascript.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+   
+}
+
+.img3{
+    margin-top: 20px;
+    height: 150px;
+    width: 200px;
+    border:solid black 3px;
+    background-image: url(images/hardwarenew.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+   
+}
+
+
+.p1{
+    text-align: center;
+}
+
+
+.father{
+    height: 350px;
+    width: 100%;
+    background-color:black;
+    display:flex;
+    justify-content:space-evenly;
+    
+}
+
+.footer-particulars{
+    min-height: 50px;
+    width: 100%;
+    color:black;
+    background-color:rgba(128, 128, 128, 0.909);  
+    border:solid black 3px;
+}
+
+
+*{font-family: 'M PLUS 1 Code', sans-serif;
+
+}
+
+
